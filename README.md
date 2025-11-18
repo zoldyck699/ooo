@@ -236,7 +236,7 @@ for (let i = 0; i < 18; i++) {
     Porque aunque tu día haya sido feo, aunque tú misma dudes de ti o te sientas chiquita por dentro…  
     <strong>yo no dejo de creer en ti.</strong>  
     Ni hoy, ni mañana, ni en esos días en los que tú misma no sabes qué sentir.
-</p>
+
     </p>
 
     <div class="audio-box">
